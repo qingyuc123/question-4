@@ -1,2 +1,5 @@
 experiment superwild
+<<<<<<< HEAD
 add new line fix typo
+polish
+>>>>>>> experiment
